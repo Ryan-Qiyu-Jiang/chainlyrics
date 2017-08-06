@@ -1,7 +1,4 @@
-@font-face {
-  font-family:"Blogger-Sans";
-  src: url(../fonts/BloggerSans.TTF);
-}
+@import url('https://fonts.googleapis.com/css?family=Saira');
 
 .footer_container{
   padding: 0 0;
@@ -122,7 +119,7 @@ p {
 }
 
 #about h1 {
-  font-family:blogger-sans;
+  font-family:Saira;
 }
 
 #about {
@@ -248,7 +245,7 @@ p {
 }
 
 #literally {
-  font-family:Blogger-sans;
+  font-family:Saira;
   font-size:30px;
 }
 
@@ -268,7 +265,7 @@ p {
 .navbar.navbar-default.navigation-clean {
   background-color:#e93f76;
   color:white;
-  font-family:Blogger-Sans;
+  font-family:Saira;
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover {
