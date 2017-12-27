@@ -15,9 +15,9 @@ export default class About extends React.Component{
         </div>
     </div>
     <div class="container" id="about_container">
-        <p id="intro">I actually love the chainsmokers and their music, evenbetter in 2017 there was a meme popularizing how easy it is to make achainsmokers song. I wanted to see if even a program made by me could do it ;) </p>
+        <p id="intro">I actually love the chain-smokers and their music, even better in 2017 there was a joke popularizing how easy it is to make a chainsmokers song. Maybe even a program made by me could do it. </p>
         <h2>How it works</h2>
-        <p>CHAIN/LYRICS uses markov chains and public api's to try to guess the next chainsmoker, or any other pop song! I'm punny ;)</p>
+        <p>CHAIN/LYRICS uses Markov chains and public API's to try to guess the next chain-smoker (or any other) pop song! I'm punny.</p>
         <div id="dev_profile">
             <h2>About Me</h2>
             <div class="row" id="profile_row">
@@ -29,7 +29,7 @@ export default class About extends React.Component{
                 <div class="col-md-6 profile_colomn">
                     <div class="profile_description">
                         <p>Hi I'm Ryan Jiang, student, coder, voracious crepe eater.</p>
-                        <p>Currently a student at waterloo, if you want to reach me for profesional or personal purposes (I lift!) ;) my email is: ryan.qiyu.jiang@gmail.com</p>
+                        <p>Currently a CS student at waterloo, if you want to reach me, my email is: ryan.qiyu.jiang@gmail.com</p>
                     </div>
                 </div>
             </div>

@@ -6,6 +6,8 @@ import ChatBox from "./ChatBox";
 export default class Lyrics extends React.Component{
 	render(){
 		const output = keyIndex(this.props.lyrics, 1);
+		console.log(this.props.lyrics);
+		console.log(output);
 		const words=output.map((output,index)=><ChatBox key={output.id} index={index} verse={output.value} />);
 
 		return(
